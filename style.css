@@ -117,3 +117,18 @@ form button:hover{
   border-radius: 8px;
   font-size: 20px;
 }
+
+@media(max-width:503px){
+  .container{
+    padding: 1rem 2rem;
+  }
+}
+
+@media(max-width:450px){
+  .container{
+    margin: 1rem;
+    padding: 1rem;
+  }
+  
+}
+
